@@ -35,20 +35,20 @@ html {
 /* Typography */
 body {
   font-family: 'Share Tech', sans-serif;
-  color: white;
+  color: black;
   font-size: 15pt;
   text-align: center;
 }
 h1 {
   font-weight: 800;
   font-size: 3em;
-  color: white;
+  color: black;
   font-family: 'Share Tech', sans-serif;
   text-align: left; 
 }
 nav, h2 {
   font-family: 'Share Tech', sans-serif;
-  color:white;
+  color:black;
   font-size: 2em;
   text-align: left;
 }
@@ -58,7 +58,7 @@ nav {
 }
 nav li a {
   text-decoration: none;
-  color: white;
+  color: black;
   text-align: right;
   
 }
