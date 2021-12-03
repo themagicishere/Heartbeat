@@ -12,7 +12,7 @@ html {
 
 /* adjust typography defaults */
 body {
-  margin: 1rem;
+  margin: 4em;
   font-family: sans-serif;
   line-height: 1.5;
 }
@@ -23,3 +23,4 @@ video {
   height: auto;
   max-width: 100%;
 }
+
