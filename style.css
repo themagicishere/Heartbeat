@@ -36,9 +36,12 @@ html {
 body {
   font-family: 'Share Tech', sans-serif;
   color: black;
-  font-size: 15pt;
-  text-align: center;
+  font-size: 13pt;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: right;
 }
+
 h1 {
   font-weight: 800;
   font-size: 3em;
