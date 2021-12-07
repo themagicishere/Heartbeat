@@ -120,9 +120,11 @@ h2 {
   margin-bottom: 1em;
 }
 img {
-  width: 100%;
+  width: 25%;
+  align:left;
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: .2em;
+  position:static;
 
 }
 img:hover {
