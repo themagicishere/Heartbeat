@@ -264,5 +264,12 @@ img:hover {
     font-size: 1.125em;
   }
   li p, .contact p {
+*/
 
-.event-wrapper
+.event-wrapper{
+  position:relative;
+}
+.event-wrapper h2{
+  position:absolute;
+  top:45%;
+}
