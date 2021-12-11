@@ -273,6 +273,7 @@ img:hover {
   position:absolute;
   top:45%;
   color: white;
+  align: center;
 }
 
 .culver-city{
@@ -282,6 +283,7 @@ img:hover {
   position:absolute;
   top:45%;
   color: white;
+  align: center;
 }
 
 .gonzales-park{
@@ -291,6 +293,7 @@ img:hover {
   position:absolute;
   top:45%;
   color: white;
+  align: center;
 }
 
 .view-park{
@@ -300,4 +303,5 @@ img:hover {
   position:absolute;
   top:45%;
   color: white;
+  align: center;
 }
