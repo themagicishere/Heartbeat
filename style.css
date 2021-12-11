@@ -266,10 +266,38 @@ img:hover {
   li p, .contact p {
 */
 
-.event-wrapper{
+.shenandoah{
   position:relative;
 }
-.event-wrapper h2{
+.shenandoah h2{
   position:absolute;
   top:45%;
+  color: white;
+}
+
+.culver-city{
+  position:relative;
+}
+.culver-city h2{
+  position:absolute;
+  top:45%;
+  color: white;
+}
+
+.gonzales-park{
+  position:relative;
+}
+.gonzales-park h2{
+  position:absolute;
+  top:45%;
+  color: white;
+}
+
+.view-park{
+  position:relative;
+}
+.view-park h2{
+  position:absolute;
+  top:45%;
+  color: white;
 }
