@@ -47,7 +47,7 @@ h1 {
   font-size: 3em;
   color: black;
   font-family: 'Share Tech', sans-serif;
-  text-align: left; 
+  text-align: center; 
 }
 nav, h2 {
   font-family: 'Share Tech', sans-serif;
@@ -115,6 +115,11 @@ nav li {
   background-color: #ffd9b3;
   margin-top: 1em;
   padding: 1.5em 2.25em 2.25em;
+}
+
+h1{
+text-align:center;
+  
 }
 h2 {
   margin-bottom: 1em;
@@ -340,6 +345,8 @@ img:hover {
 
 .image {
     position: relative;
+    margin-top:1em;
+    margin-bottom:2em;
     width: 300px;
     height: 300px;
     -webkit-animation:spin 6s linear infinite;
@@ -349,3 +356,7 @@ img:hover {
 @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
 @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.events {
+  text-align: center 
+}
